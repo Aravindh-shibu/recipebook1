@@ -1,0 +1,7 @@
+recipe name:briyani
+ingrediants:
+  rice-1kg
+  chicken-1kg
+  chicken masala-2 teaspoon
+  salt-1 teaspoon
+  turmeric-half teaspoon
